@@ -1,2 +1,2 @@
 # odin-recipes
-A website for recipes using basic HTML knowledge
+Um site de receitas, feito usando HTML
