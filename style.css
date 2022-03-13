@@ -1,0 +1,21 @@
+* {
+    background-color: #fffdca;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.logo {
+    font-size: 48px;
+    font-weight: bold;
+    color:crimson;
+    text-align: center;
+}
+
+.text {
+    font-size: 24px
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    color: indianred
+}
