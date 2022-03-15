@@ -6,8 +6,16 @@
 .logo {
     font-size: 48px;
     font-weight: bold;
-    color:crimson;
-    text-align: center;
+    color: crimson;
+    margin-block-start: 0.67em;
+    margin-block-end: 0em;
+}
+
+p.sub {
+    color: black;
+    margin-block-start: 0px;
+    margin-block-end: 25px;
+    font-size: 16px;
 }
 
 .text {
