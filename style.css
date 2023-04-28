@@ -47,12 +47,13 @@ a.receita:hover {
     color: blueviolet;
 }
 
-body {
+/* Na verdade essa parte se mostrou desnecessária */
+/* A ideia era deixar o footer sempre em baixo, mas descobri que não precisa e fica feio. */
+/* body {
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
   }
 
 .lista {
     flex: 1;
-  }
+  } */
