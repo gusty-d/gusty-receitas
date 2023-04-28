@@ -16,6 +16,7 @@ p.sub {
     margin-block-start: 0px;
     margin-block-end: 25px;
     font-size: 16px;
+    margin-top: 5px;
 }
 
 .text {
@@ -30,13 +31,15 @@ p {
 
 hr {
     height: 0.25px;
-    background-color: crimson;
-    border-color: crimson;
-    width: 25rem;
+    background-color: black;
+    border-color: black;
+    width: 12.5rem;
+    border: 5px;
+    margin-bottom: 30px;
   }
 
 a.receita {
-    color: crimson;
+    color: black;
     text-decoration: none;
 }
 
