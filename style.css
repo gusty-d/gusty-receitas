@@ -29,7 +29,7 @@ p {
     color: indianred
 }
 
-hr {
+hr.recipe-divide {
     height: 0.25px;
     background-color: black;
     border-color: black;
