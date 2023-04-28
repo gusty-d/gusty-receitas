@@ -46,3 +46,13 @@ a.receita {
 a.receita:hover {
     color: blueviolet;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+.lista {
+    flex: 1;
+  }
