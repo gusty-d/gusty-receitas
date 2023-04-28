@@ -34,3 +34,12 @@ hr {
     border-color: crimson;
     width: 25rem;
   }
+
+a.receita {
+    color: crimson;
+    text-decoration: none;
+}
+
+a.receita:hover {
+    color: blueviolet;
+}
