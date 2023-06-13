@@ -1,2 +1,4 @@
-# gusty-receitas
-Um site de receitas de qualidade questionável, feito usando HTML.
+# Gusty Receitas
+Site com exposição de algumas receitas questionáveis da culinária brasileira.
+
+Projeto feito em HTML e CSS
